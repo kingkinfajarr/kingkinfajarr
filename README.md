@@ -7,4 +7,4 @@
 <a href="https://twitter.com/kingkinfajarr" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:kingkinnfajar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 
-[![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=react&show_icons=true)](https://github.com/kingkinfajarr)
+[![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=nord&show_icons=true)](https://github.com/kingkinfajarr)
