@@ -1,6 +1,6 @@
 ### Hi I'm Here 👋
 
-![age](https://img.shields.io/badge/age-17-yellow)
+![age](https://img.shields.io/badge/age-18-yellow)
 <a href="https://t.me/kingkinfajarr" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
 <a href="https://github.com/kingkinfajarr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://instagram.com/kingkinnfajarr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
