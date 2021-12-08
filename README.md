@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi Kingkin Fajar's Here 👋
 
 > students who like web development, especially in front end development. and also interested in ui design
@@ -9,7 +10,18 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+You can reach me here:<br><br>
+<a href="mailto:kingkinnfajar@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/kingkinfajarr" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/kingkinfajarr" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/kingkinnfajarr" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
