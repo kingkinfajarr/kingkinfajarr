@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi Kingkin Fajar's Here 👋
+# Hi, Kingkin Fajar's Here 👋
 
-students who like web development, especially in front end development. and also interested in ui design
+Student who like Web Development, especially in Front-end Development. And also interested in UI Design
 
 [![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=nord&show_icons=true)](https://github.com/kingkinfajarr)
 
