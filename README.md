@@ -2,7 +2,7 @@
 
 # Hi Kingkin Fajar's Here 👋
 
-> students who like web development, especially in front end development. and also interested in ui design
+students who like web development, especially in front end development. and also interested in ui design
 
 [![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=nord&show_icons=true)](https://github.com/kingkinfajarr)
 
