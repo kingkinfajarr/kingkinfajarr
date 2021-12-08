@@ -21,7 +21,7 @@ You can reach me here:<br><br>
 <a href="https://twitter.com/kingkinfajarr" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://instagram.com/kingkinnfajarr" style="text-decoration: none;">
+<a href="https://instagram.com/kingkinfajarr" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
