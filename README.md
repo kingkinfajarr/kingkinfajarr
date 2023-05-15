@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, Kingkin Fajar's Here 👋
 
