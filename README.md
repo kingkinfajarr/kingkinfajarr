@@ -2,7 +2,7 @@
 
 # Hi, Kingkin Fajar's Here 👋
 
-Student who like Web Development, especially in Front-end Development. And also interested in UI Design
+Just a Kid, Interested in programming since graduating Junior High School, and now I am a Mobile Developer, especially in cross-platform with Flutter
 
 [![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=nord&show_icons=true)](https://github.com/kingkinfajarr)
 
